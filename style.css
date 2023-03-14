@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+   background-color: hsl(212, 45%, 89%);
+   text-align: center;
+}
+.qr-top {
+     
+}
+.qr-code {
+    /* width: 40%; */
+    margin: 100px auto; 
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.qr-image {
+    width:  290px;
+    height: 300px;
+    border-radius: 15px;
+    
+ 
+}
+p {
+    font-size: 15px;
+    color:  hsl(220, 15%, 55%);
+}
